@@ -1,6 +1,6 @@
 {
    "headers":{
-      "login":{
+      "/login/":{
          "X-Author":"vitaly_solntsev"
       }
    }
