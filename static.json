@@ -1,8 +1,1 @@
-{
-  "headers": {
-    "/*": {
-      "X-Author": "vitaly_solntsev",
-      "Access-Control-Allow-Origin": "*"
-    },
-  }
-}
+
