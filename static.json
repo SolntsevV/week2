@@ -5,8 +5,7 @@
          "Access-Control-Allow-Origin":"*"
       },
       "/promise/":{
-         "Access-Control-Allow-Origin":"*",
-         "Content-type":"text/plain; charset=UTF-8"
+         "Access-Control-Allow-Origin":"*"
       }
    }
 }
