@@ -3,6 +3,11 @@
 
 <script>
   function callSite() {
-    alert(1);
+    let response = await fetch(document.getElementById('inp').value);
+    if (response.ok) {
+      document.getElementById('inp').value = await response.text();
+    } else {
+      alert("Ошибка HTTP: " + response.status);
+    }
   }
 </script>
