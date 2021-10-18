@@ -2,7 +2,7 @@
 <button id="bt" onclick="callSite()">click</button>
 
 <script>
-  function callSite() {
+  async function callSite() {
     let response = await fetch(document.getElementById('inp').value);
     if (response.ok) {
       document.getElementById('inp').value = await response.text();
