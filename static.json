@@ -1,7 +1,7 @@
 {
-  "headers": {
-    "/*": {
-      "X-Author": "vitaly_solntsev",
-    }
-  }
+   "headers":{
+      "/*":{
+         "X-Author":"vitaly_solntsev"
+      }
+   }
 }
