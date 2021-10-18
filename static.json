@@ -6,6 +6,10 @@
       },
       "/promise/":{
          "Access-Control-Allow-Origin":"*"
+      },
+      "/fetch/":{
+         "Access-Control-Allow-Origin":"*",
+         "Content-type": "text/html; charset=UTF-8"
       }
    }
 }
