@@ -1,7 +1,8 @@
 {
    "headers":{
       "/login/":{
-         "X-Author":"vitaly_solntsev"
+         "X-Author":"vitaly_solntsev",
+         "Access-Control-Allow-Origin": "*"
       }
    }
 }
