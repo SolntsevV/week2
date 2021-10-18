@@ -3,10 +3,6 @@
       "/login/":{
          "X-Author": "vitaly_solntsev",
          "Access-Control-Allow-Origin": "*",
-      },
-      "/sample/":{
-         "Access-Control-Allow-Origin": "*",
-         "Content-Type": "text/plain; charset=UTF-8"
       }
    }
 }
